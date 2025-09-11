@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 ## About
@@ -17,4 +18,6 @@ to this in your browser, and you can call your Go code from devtools.
 ## Building
 
 To build a redistributable, production mode package, use `wails build`.
+=======
+>>>>>>> 4dbe2fb9b23b953449ee9b6415cced6dff34ee8d
 # todo-wails-go
